@@ -1,6 +1,6 @@
 # Olá! Sou o Gian Carlo
 
-Desenvolvedor júnior em Recife, estudante de Ciência da Computação (Wyden UniFBV). Sou programador, designer, e transformo ideias em produtos digitais desenvolvendo com a assistência de IA (**Claude** e **Claude Code**): crio o conceito, planejo a solução, entrego à IA, oriento a geração do código, reviso, testo e ajusto até o final.
+Desenvolvedor em Recife, estudante de Ciência da Computação (Wyden UniFBV). Sou programador, designer, e transformo ideias em produtos digitais desenvolvendo com a assistência de IA (**Claude** e **Claude Code**): crio o conceito, planejo a solução, entrego à IA, oriento a geração do código, reviso, testo e ajusto até o final.
 
 Venho de QA, hardware e servidores, então gosto de investigar a fundo para garantir que eu entregue qualidade que me dê orgulho.
 
